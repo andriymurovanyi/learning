@@ -191,7 +191,7 @@ Check-point:
 - Movie search (TMDB API)
 - Multi-page app з роутингом
 
-Чек-поінт:
+Check-point:
 - [ ] Розуміння життєвого циклу компонента
 - [ ] Вміння створити форму
 - [ ] Розуміння, коли використовувати useState vs useEffect
@@ -314,7 +314,7 @@ Auth:
 - Blog API (posts, comments)
 - Auth API (register, login, protected route)
 
-Чек-поінт:
+Check-point:
 - [ ] Вміння написати простий REST API
 - [ ] Розуміння як працює база даних
 
