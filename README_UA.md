@@ -7,7 +7,7 @@
 #### HTML (1 тиждень)
 
 Що вивчити:
-- Базові теги: div, p, h1-h6, a, img, ul/ol, form, input, button
+- Базові теги: div, p, h1-h6, a, img, ul/ol, form, input, button, table
 - Атрибути: class, id, href, src, alt
 - Структура документа
 
